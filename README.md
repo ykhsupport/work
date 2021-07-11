@@ -30,11 +30,9 @@ cp -r 2121_wave_cafe/* /var/www/html/         #<------ it depends on your apache
 ----
 ## Conclusion
 
-It's a HTML website template and its simply working with webserver only so maybe you guys need a proper website content for study purpose so please check this and use one of any website on this repo.
+It's an HTML website template and simply works with a web server and there haven't any additional services for running, so maybe you guys need a proper website content for study purposes, who guys watch this maybe its useful so please check this and use one of any websites on this repo.
 
 <p align="center">
 <a href="mailto:yousaf.k.hamza@gmail.com"><img src="https://img.shields.io/badge/-yousaf.k.hamza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yousafkhamza"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
 <a href="https://techbit-new.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-orange"/></a>
-
-
