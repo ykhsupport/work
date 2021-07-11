@@ -13,11 +13,6 @@ It's using sample websites from tooplate and it's might be helpful to someone st
 - Education purpose 
 - No need any other services (only have webserver)
 
------
-
-
------
-
 ---
 # How to get these sites
 
